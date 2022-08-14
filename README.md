@@ -2,7 +2,7 @@
 Themes I created custom for my the NetNewsWire RSS client.
 
 To use any of these themes, I recommend either cloning this repo or downloading it as a zip file.
-Click the green `Code` button in the upper right of this repo, and select "Download as ZIP". Unzip
+Click the green `Code` button in the upper right of this repo, and select "Download ZIP". Unzip
 the zip file, and you should now be able to copy themes into the NetNewsWire theme directory. You
 can easily open that directory in NewNewsWire via the `NetNewswire` menu bar item > `Preferences` >
 `Open Themes Folder`. Copy and paste the .netnewswire directory in there and voila! themes should
