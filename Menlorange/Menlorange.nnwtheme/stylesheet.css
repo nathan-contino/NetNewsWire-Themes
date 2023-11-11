@@ -387,16 +387,16 @@ a.footnote:hover,
 		font: -apple-system-body;
 		/* The font-size is NOT replaced at runtime by the dynamic type size because that doesn't get small enough */
 		font-size: 12px;
-		--primary-accent-color: #D24D15;
-		--secondary-accent-color: #D24D15;
-		--block-quote-border-color: rgba(210, 77, 21, 0.75);
+		--primary-accent-color: #f37320;
+		--secondary-accent-color: #f37320;
+		--block-quote-border-color: rgba(243, 115, 32, 0.75);
 	}
 
 	@media(prefers-color-scheme: dark) {
 		:root {
-		--primary-accent-color: #D24D15;
-		--secondary-accent-color: #D24D15;
-		--block-quote-border-color: rgba(210, 77, 21, 0.75);
+		--primary-accent-color: #f37320;
+		--secondary-accent-color: #f37320;
+		--block-quote-border-color: rgba(243, 115, 32, 0.75);
 		}
 	}
 
