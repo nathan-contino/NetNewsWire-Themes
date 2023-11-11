@@ -384,7 +384,7 @@ a.footnote:hover,
 
 	:root {
 		color-scheme: light dark;
-		font: "Menlo";
+		font: "Menlo Regular";
 		/* The font-size is replaced at runtime by the dynamic type size */
 		font-size: 12px;
 		--primary-accent-color: #D24D15;
