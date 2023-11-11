@@ -234,8 +234,8 @@ figure {
 }
 
 figcaption {
-	font-size: 9px;
-	class: italic;
+	font-size: .8em;
+	font-style: italic;
 	line-height: 1.3em;
 }
 
@@ -387,7 +387,7 @@ a.footnote:hover,
 		color-scheme: light dark;
 		font: -apple-system-body;
 		/* The font-size is NOT replaced at runtime by the dynamic type size because that doesn't get small enough */
-		font-size: 12px;
+		font-size: .85em;
 		--primary-accent-color: #f37320;
 		--secondary-accent-color: #f37320;
 		--block-quote-border-color: rgba(243, 115, 32, 0.75);
@@ -422,7 +422,6 @@ a.footnote:hover,
 	.nnw-overflow table {
 		border: 1px solid var(--secondary-accent-color);
 	}
-
 }
 
 /* macOS Specific */
@@ -482,5 +481,4 @@ a.footnote:hover,
 	.nnw-overflow table {
 		border: 1px solid var(--accent-color);
 	}
-
 }
