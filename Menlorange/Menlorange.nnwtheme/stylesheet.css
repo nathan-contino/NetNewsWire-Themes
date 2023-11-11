@@ -384,7 +384,7 @@ a.footnote:hover,
 
 	:root {
 		color-scheme: light dark;
-		font: 'Avenir-Book', -apple-system-body;
+		font-family: ui-serif, -apple-system-body;
 		/* The font-size is replaced at runtime by the dynamic type size */
 		font-size: 12px;
 		--primary-accent-color: #D24D15;
