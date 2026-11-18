@@ -19,4 +19,6 @@ or it'll end up falling back to... less pleasant fonts.
 
 ## Compact
 
-For people who want even smaller text than the NetNewsWire defualt theme allows.
+For people who want even smaller text than most NetNewsWire themes allow, and no margins. Created specifically for my iPhone 13 mini, though anyone who likes small-ish text could benefit on any iOS device. Also turns links and headings a lovely shade of orange instead of that nasty blue everyone else seems fine with in the default theme.
+
+<img src="theme-preview-compact.png" alt="Compact theme" width="250" >
