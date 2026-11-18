@@ -8,9 +8,15 @@ can easily open that directory in NewNewsWire via the `NetNewswire` menu bar ite
 `Open Themes Folder`. Copy and paste the .netnewswire directory in there and voila! themes should
 be available in the app dropdown.
 
+![](theme-preview.png)
+
 ## Ubuntu
 
 This is the default theme, but it uses Canonical's [Ubuntu font family](https://design.ubuntu.com/font/) for text, titles, and code.
 Personally I like the default theme's styling just fine, but the San Francisco font isn't particularly pleasing to my eye.
 This replaces all San Francisco font types with Ubuntu font types. Be sure to install the Ubuntu font family before you install this,
 or it'll end up falling back to... less pleasant fonts.
+
+## Compact
+
+For people who want even smaller text than the NetNewsWire defualt theme allows.
