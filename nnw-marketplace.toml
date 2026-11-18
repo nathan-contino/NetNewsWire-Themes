@@ -1,0 +1,9 @@
+[[theme]]
+id = "Ubuntu"
+description = "The default NetNewsWire theme, but with the Ubuntu font family."
+screenshot = "theme-preview.png"
+
+[[theme]]
+id = "Compact"
+description = "A NetNewsWire theme for readers who want no margins and smaller text than NetNewsWire typically allows, originally designed for small mobile devices like the iPhone mini."
+screenshot = "theme-preview-compact.png"
